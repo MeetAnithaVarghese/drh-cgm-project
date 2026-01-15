@@ -3,3 +3,5 @@ numpy
 matplotlib
 seaborn
 singer-python
+sql
+sqlalchemy
